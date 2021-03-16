@@ -2,10 +2,10 @@
 ## Projeto com função de gerenciar Biblioteca.
 
 ### Controle de:
-  #### Livros
-  #### Clientes
-  #### Empréstimos
-  #### Devoluções
+  - Livros
+  - Clientes
+  - Empréstimos
+  - Devoluções
   
   
 ### Menu de opções:
