@@ -1,0 +1,12 @@
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Biblioteca\Model\bin\Debug\Model.dll
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Biblioteca\Model\bin\Debug\Model.pdb
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Biblioteca\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Biblioteca\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Biblioteca\Model\obj\Debug\Model.dll
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Biblioteca\Model\obj\Debug\Model.pdb
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Model\bin\Debug\Model.dll
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Model\bin\Debug\Model.pdb
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Model\obj\Debug\Model.dll
+C:\Users\LuizSena\source\repos\LuizGustavoSena\Biblioteca\Model\obj\Debug\Model.pdb
